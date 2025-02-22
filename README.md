@@ -7,5 +7,8 @@ An AI-driven vision model developed by Google that can provide contextual inform
 
 ## Requirements
 Python 3.8+
+
 Install required libraries:
+,,,
 pip install transformers torch streamlit
+,,,
