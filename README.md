@@ -16,11 +16,11 @@ pip install transformers torch streamlit
 ## Usage
 1. Clone the repository
 ```
-git clone
+https://github.com/your_username/Vision-Transformer.git
 ```
 2. Set directory
 ```
-cd 
+cd \file_location
 ```
 3. Run the Streamlit application
 ```
